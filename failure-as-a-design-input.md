@@ -14,6 +14,12 @@ API Connect — Lagos, 2026
 # Part 1: Resilience Is Not Enough
 
 ---
+## What is Antifragility in systems design?
+
+
+![The Antifragility meaning](images/antifragility.png)
+
+
 
 ## The Spectrum You're Not Using
 
